@@ -47,9 +47,6 @@ Viral Sync is a Solana devnet referral and loyalty protocol prototype for local 
 - Open-source contributions in TypeScript, Python/FastAPI, Go, and developer tooling
 
 ## Contact
-
-- Portfolio: `https://your-portfolio-link.example`
-- Resume: `https://your-resume-link.example`
-- LinkedIn: `https://linkedin.com/in/your-linkedin`
+- LinkedIn: www.linkedin.com/in/prabin-ghimire-303206277`
 - Email: `twodan033@gmail.com`
 - Timezone: Nepal Time, UTC+5:45
