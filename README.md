@@ -42,7 +42,7 @@ Viral Sync is a Solana devnet referral and loyalty protocol prototype for local 
 ## What I am improving now
 
 - Stronger test coverage and CI across my main repositories
-- More case studies, demo scripts, and architecture notes
+- More case studies, architecture notes, and practical examples
 - Cleaner API examples and deployment documentation
 - Open-source contributions in TypeScript, Python/FastAPI, Go, and developer tooling
 
